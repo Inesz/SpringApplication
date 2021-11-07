@@ -33,6 +33,12 @@ dependencies {
     //implementation group: 'org.aspectj', name: 'aspectjtools', version: aspectjVersion
 
     testImplementation "org.springframework.boot:spring-boot-starter-test:${springVersion}"
+
+    implementation group: 'org.apache.commons', name: 'commons-lang3', version: '3.12.0'
+    implementation group: 'org.apache.commons', name: 'commons-text', version: '1.9'
+    implementation group: 'org.apache.commons', name: 'commons-collections4', version: '4.4'
+
+
 }
 
 test {
