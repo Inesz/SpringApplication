@@ -1,2 +1,3 @@
 rootProject.name = 'SpringApplication'
+include 'hibernate'
 

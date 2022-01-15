@@ -1,0 +1,1 @@
+module com.spring.fun.hibernate {}

@@ -10,3 +10,7 @@ Contain:
 - post-compile-weaving
 - run: java -jar Appname.jar
 
+2. Test for apache commons
+
+3. Test for JPA
+- @ManyToMany relation implementation
