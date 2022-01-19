@@ -14,3 +14,8 @@ Contain:
 
 3. Test for JPA
 - @ManyToMany relation implementation
+
+4. Test for WebFlux
+- Simple Mono and Flux rest service.
+- Mock Mono and Flux data.
+- Lombook.
